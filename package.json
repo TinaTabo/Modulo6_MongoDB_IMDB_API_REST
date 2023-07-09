@@ -4,7 +4,8 @@
   "description": "API REST con MongoDB para la app web FilmCrew Hub",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "author": "Cristina Taboada Mayo",
   "license": "ISC",
